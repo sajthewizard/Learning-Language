@@ -1,0 +1,68 @@
+[
+    {
+        "id": "01",
+        "name": "Learn German",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "img": "https://media.meer.com/attachments/74ffd08bdbc08c6913893ad79af657c050f3b7f1/store/fill/690/388/85acb85a1a50fec51279c97289586352053d0402e0d07092d1ad07034b6f/Learning-German.jpg",
+        "total_student": 488,
+        "title": "Individuality intensity and efficiency are the main characteristics of our courses. The time you invest in one of our courses is optimally utilized so that you achieve your language learning goals in the shortest possible time."
+    },
+    {
+        "id": "02",
+        "name": "Learn English",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2gEC4E5t3xCYiA5lQ1KS8Zjtin2c3bqIpQ&usqp=CAU",
+        "total_student": 498,
+        "title": "English is one of the most important subjects in school and a key skill for the future. Preparing for a Cambridge English exam will help you gradually improve your level of English and build confidence in your skills, for all levels and ages.On this page you will find testimonials from successful Cambridge English graduates, as well as valuable information on learning English and preparing for the exam."
+    },
+    {
+        "id": "03",
+        "name": "Learn Bangla",
+        "rating": {
+            "number": 4.1,
+            "badge": "Excellent"
+        },
+        "img": "https://edge.mondly.com/blog/wp-content/uploads/2020/03/learn-bengali-1.jpg",
+        "total_student": 288,
+        "title": "LearnBangla Language Center has started its journey from 2010 and providing Bangla language training to the foreigner/ expatriate officials those who are working in different diplomatic missions, international volunteer agencies (KOICA, JICA, VSO), international aid agencies, donor agencies, like: EU officials, USA officials, NGOs, CBOs, university students and social workers in such a way, so that they could easily able to overcome cross cultural obstacles and read, write, understand and speak in Bangla language fluently. In the mean time, that program has helped around thousand of learners from more than 50 countries. In the process, we have found our achievements to be satisfactory. By this time, we have received a high appreciation from the participants as well as from their sponsors what is very much encouraging for the development of this institution. There is availability of hundreds of individual Bangla language learning materials. But this is first time we developed curriculum based language teaching modules and materials what was accepted and appreciated excitingly to the world community. And still we are in progress in reviewing, associating feedback, innovating new ideas for ongoing process."
+    },
+    {
+        "id": "04",
+        "name": "Learn Spanish",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "img": "https://d1bvpoagx8hqbg.cloudfront.net/originals/tips-learn-spanish-eca8836418e67f6a4cab9d9ef833a43c.jpg",
+        "total_student": 388,
+        "title": "Did you study Spanish in high school or college, but never achieved conversational fluency? If conversational Spanish is your goal, we have the solution!"
+    },
+    {
+        "id": "05",
+        "name": "Learn Italian",
+        "rating": {
+            "number": 4.1,
+            "badge": "Excellent"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0NNY6JTR5vzFkwDQsTWNx8dgnVolQEXraQ&usqp=CAU",
+        "total_student": 268,
+        "title": "f you have always wanted to learn Italian, you’re nowhere near alone; millions of people study the language every day around the world. And it’s no wonder! Italian is a language that captures a rich culture and history. The Italian language can take you around the world, from Europe to Africa to North America and beyond."
+    },
+    {
+        "id": "06",
+        "name": "Learn Arabic",
+        "rating": {
+            "number": 3.5,
+            "badge": "Excellent"
+        },
+        "img": "https://www.lcps.ae/wp-content/uploads/2020/09/learn-arabic.jpg",
+        "total_student": 188,
+        "title": "Arabic is the 4th most commonly spoken language in the world with over 295 million speakers. Learn Arabic with us to communicate with locals when you travel to Egypt, Morocco, Jordan, Lebanon or any of the 27 countries where Arabic is an official language. Use your new skills to appreciate beautiful Arabic calligraphy and literature or flawlessly order shawarma in Cairo!"
+    }
+]
