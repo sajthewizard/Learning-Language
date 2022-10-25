@@ -11,6 +11,11 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(data)
 })
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedcourse = data.find(n => n.id === id);
+    res.send(selectedcourse)
+})
 app.listen(port, () => {
     console.log('Learning news port is running', port);
 }
